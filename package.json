@@ -42,7 +42,7 @@
   "bugs": {
     "url": "https://github.com/Maliek2/templateapp/issues"
   },
-  "homepage": "http://framework7.io/plugins/",
+  "homepage": "http://templateapp-psi.vercel.app/",
   "engines": {
     "node": ">= 0.10.0"
   },
