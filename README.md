@@ -320,4 +320,4 @@ And working demo will be available at `http://localhost:3000/demo/`
 
 ## Live Preview
 
-https://framework7io.github.io/framework7-plugin-feeds/
+https://templateapp-psi.vercel.app/
